@@ -29,7 +29,10 @@ The Bama.ir Scraper is a Python script that uses `requests_html` to extract car 
    ```bash
    pip install -r requirements.txt
    ```
-
+   **or install only the required library:**
+   ```bash
+   pip install requests-html
+   ```
 5. **Run the script:**
    ```bash
    python scraper.py
